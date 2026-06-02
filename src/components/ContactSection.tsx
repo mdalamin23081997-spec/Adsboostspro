@@ -51,7 +51,7 @@ export default function ContactSection({ preselectedObjective = '' }: ContactSec
     formData.budget
   )}.%2520Can%252520we%2520connect?`;
 
-  const messengerUrl = "https://m.me/mdalamin23081997";
+  const messengerUrl = "https://m.me/sbapnera.rajakan.ya.757567";
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
