@@ -2,7 +2,7 @@ import React from 'react';
 import { MessageSquare, PhoneCall } from 'lucide-react';
 
 export default function WhatsAppBubble() {
-  const whatsappUrl = "https://wa.me/8801746835448?text=Hello!%20I%20visited%2520your%2520website%2520and%2520am%252520interested%2520in%2520your%2520Facebook%2520Ads%2520Campaign%2520Management%2520and%2520Boosting%2520services.%2520Could%2520you%252520provide%2520more%2520information?";
+  const whatsappUrl = "https://wa.me/8801746835448?text=Hello!";
 
   return (
     <div className="fixed bottom-6 right-6 z-50 flex flex-col items-end space-y-2 pointer-events-none">
